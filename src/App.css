@@ -1,0 +1,11 @@
+
+.App{
+  min-height: 700vh;
+  background: #000;
+  color: #fff;
+}
+
+.show_App{
+    background: #fff;
+    color: #000;
+}

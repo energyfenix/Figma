@@ -1,0 +1,94 @@
+.social_item{
+    color: #fff;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@700&family=Inter&family=Poppins:wght@600&display=swap');
+
+.main__top{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 90px;
+}
+.left__top{
+    position: relative;
+}
+.left__top .anton{
+    font-size: 185px;
+    font-family: 'Antonio', sans-serif;
+    line-height: 165px;
+}
+.portal{
+    position: absolute;
+    right: 35px;
+    top: 0;
+}
+.gradient{
+font-size: 75px;
+line-height: 100%;
+padding-top: 18px;
+    background: linear-gradient(90deg, #FA709A 0%, #FEE140 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+}
+.socials{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    padding-top: 30px;
+}
+.socials svg{
+    font-size: 35px;
+    border: 1px solid #fff;
+    padding: 4px;
+    border-radius: 4px;
+}
+.dowload{
+    width: 660px;
+    height: 52px;
+    background: rgba(41, 41, 41, 1);
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.persent{
+    width: 90%;
+    border: 2px solid #646464;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly ;
+    padding: 70px 80px;
+    gap: 30px;
+}
+.persent_item h1{
+    font-size: 100px;
+    color: rgba(100, 198, 97, 1);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+.persent_item h1 svg{
+    padding-left: 70px;
+    font-size: 150px;
+    color: rgba(100, 198, 97, 1);
+}
+.persent_item h3{
+    color: rgba(100, 198, 97, 1);
+    width: 250px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.persent_item .h3{
+    transform: translate(110px);
+}
+.persent_item .h3_2{
+    transform: translate(80px);
+}

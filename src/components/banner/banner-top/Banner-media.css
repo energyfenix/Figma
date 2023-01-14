@@ -1,0 +1,55 @@
+@media screen and (max-width:1024px) {
+    .right__top{
+        display: none;
+    }
+    .left__top{
+    }
+    .left__top .anton{
+        font-size: 220px;
+        line-height: 210px;
+        text-align: center;
+      
+    }
+    .left__top .portal{
+        display: none;
+    }
+    .left__top .gradient{
+        font-size: 85px;
+        padding-top: 20px;
+        text-align: center;
+    }
+        .socials{
+            margin-left: 90px;
+        }
+        .socials svg{
+            font-size: 55px;
+        }
+        .socials img{
+            width: 60px;
+        }
+        .dowload{
+            width: 750px;
+            margin-left: 90px;
+        }
+    
+}
+
+.persent{
+    width:90%;
+    display: flex;
+    align-items: center;
+    gap: 0;
+}
+.persent_item h1{
+    font-size: 65px;
+    text-align: center;
+}
+.persent h3{
+    width: 210px;
+}
+.persent img{
+    display: none;
+}
+
+
+

@@ -1,0 +1,46 @@
+.navbar__collection{
+    width: 90%;
+    margin: 0px 100px 0px auto;
+    padding-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar__logo{
+    /* padding-left: 100px; */
+}
+
+.navbar__routes{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+}
+.navbar__routes .route__item{
+    font-size: 20px;
+    letter-spacing: .5px;
+}
+
+.mode{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    background: #fff;
+    color: #000;
+}
+
+.contact{
+    background: #925FF0;
+    width: 133px;
+    height: 40px;
+    border-radius: 4px;
+    margin-left: 20px;
+}
+.navbar .bars
+.navbar .bars p  {
+    width: 20px;
+    height: 2px;
+    margin-top: 5px;
+    border: 2px solid #fff;
+    background: #000;
+}

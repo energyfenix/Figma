@@ -1,0 +1,33 @@
+@media screen and (max-width:1024px) {
+        .about{
+            width: 80%;
+            margin-left: 180px;
+        } 
+        .about__child{
+            width: 80%;
+        }
+        
+        .child__text{
+            width:50%;
+        }
+        .child__text h1{
+            font-size: 32px;
+            text-align: center;
+        }
+        .child__text h1 img{
+            display: none ;
+
+        }
+         .child__text  p{
+            font-size: 20px;
+            width: 350px;
+        }
+        .about .about__child:nth-child(2) .child__text p{
+            text-align: end;
+        }
+                  
+        .child__img img{
+            width: 400px;
+            object-fit: contain;
+        }
+}

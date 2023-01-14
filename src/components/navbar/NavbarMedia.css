@@ -1,0 +1,23 @@
+@media  screen and (max-width:1024px) {
+    .navbar__collection{
+        width: 80%;
+        margin-left: 50%;
+        /* transform: translate(-50%); */
+    }
+    
+    .navbar__logo img{
+        width: 120px;
+    }
+    .navbar__routes .route__item{
+        font-size: 18px;
+    }
+    .navbar__tech .mode{
+        height: 35px;
+    }
+    .navbar__tech .contact{
+        font-size: 16px;
+        height: 35px;
+    }
+    
+}
+
