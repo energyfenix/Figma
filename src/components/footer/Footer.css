@@ -23,9 +23,7 @@
 .child__text p span{
     background: linear-gradient(90deg, #FA709A 0%, #FEE140 100%);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent;
     font-weight: 700;
 }
 

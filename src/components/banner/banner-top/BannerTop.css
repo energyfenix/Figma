@@ -31,9 +31,7 @@ line-height: 100%;
 padding-top: 18px;
     background: linear-gradient(90deg, #FA709A 0%, #FEE140 100%);
 -webkit-background-clip: text;
--webkit-text-fill-color: transparent;
 background-clip: text;
-text-fill-color: transparent;
 
 }
 .socials{
